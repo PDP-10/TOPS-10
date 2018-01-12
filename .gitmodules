@@ -4,3 +4,6 @@
 [submodule "tapes"]
 	path = tapes
 	url = https://github.com/PDP-10/tops10-tapes
+[submodule "disks"]
+	path = disks
+	url = https://github.com/gewtnet/tops10-disks
